@@ -1,0 +1,74 @@
+[{
+    "title": "hoodie ash",
+    "price": 499,
+    "shortDesc": "Unisex",
+    "category": "board",
+    "longDesc": "Skate ipsum dolor sit amet...",
+    "imgFile": "hoodie-ash.png",
+    "serial": "17389100887277"
+  },
+  {
+    "title": "hoodie fire",
+    "price": 499,
+    "shortDesc": "Unisex",
+    "category": "board",
+    "longDesc": "Skate ipsum dolor sit amet...",
+    "imgFile": "hoodie-fire.png",
+    "serial": "17389167890128899"
+  },
+  {
+    "title": "hoodie ocean",
+    "price": 499,
+    "shortDesc": "Unisex",
+    "category": "board",
+    "longDesc": "Skate ipsum dolor sit amet...",
+    "imgFile": "hoodie-ocean.png",
+    "serial": "17389167008890"
+  },
+  {
+    "title": "skateboard generic",
+    "price": 2999,
+    "shortDesc": "Unisex",
+    "category": "board",
+    "longDesc": "Skate ipsum dolor sit amet...",
+    "imgFile": "skateboard-generic.png",
+    "serial": "66899433209756"
+  },
+  {
+    "title": "Gretas Fury",
+    "price": 2999,
+    "shortDesc": "Unisex",
+    "category": "board",
+    "longDesc": "Skate ipsum dolor sit amet...",
+    "imgFile": "skateboard-greta.png",
+    "serial": "173891297371277"
+  },
+
+  {
+    "title": "wheel rocket",
+    "price": 999,
+    "shortDesc": "Unisex",
+    "category": "board",
+    "longDesc": "Skate ipsum dolor sit amet...",
+    "imgFile": "wheel-rocket.png",
+    "serial": "17389167008890"
+  },
+  {
+    "title": "wheel spinner",
+    "price": 999,
+    "shortDesc": "Unisex",
+    "category": "board",
+    "longDesc": "Skate ipsum dolor sit amet...",
+    "imgFile": "wheel-spinner.png",
+    "serial": "17389167008890"
+  },
+  {
+    "title": "wheel wave",
+    "price": 999,
+    "shortDesc": "Unisex",
+    "category": "board",
+    "longDesc": "Skate ipsum dolor sit amet...",
+    "imgFile": "wheel-wave.png",
+    "serial": "17668899000080"
+  }
+]
